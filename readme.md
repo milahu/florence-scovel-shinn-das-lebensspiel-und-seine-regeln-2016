@@ -46,10 +46,10 @@ und glücklich sein!
 
 ## scans
 
-### TODO_BOOK_TORRENT_NAME
+### shinn.florence.scovel.das.lebensspiel.und.seine.regeln.2016.600dpi.german.book.scan
 
 ```
-TODO_BOOK_TORRENT_MAGNET_LINK
+magnet:?xt=urn:btih:71a3ea2aa97d6a7460fdf6171739f1a6468fb082&dn=shinn.florence.scovel.das.lebensspiel.und.seine.regeln.2016.600dpi.german.book.scan&xl=377907111&tr=udp%3A%2F%2F185.216.179.62%3A25%2Fannounce&tr=udp%3A%2F%2F93.158.213.92%3A1337%2Fannounce&tr=udp%3A%2F%2F107.189.2.131%3A1337%2Fannounce&piece_size=4194304
 ```
 
 ## mirrors
