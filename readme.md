@@ -28,8 +28,8 @@ Denn geleitet durch Gottes Vorsehung kann jeder von uns eine positive Lebenseins
 und glücklich sein!
 
 - Herausgeber: Freya Verlag
-- Erscheinungstermin: 2016 (reprint der 13. auflage von 18. Februar 2011?)
-- Auflage: 14. (oder 13. auflage?)
+- Erscheinungstermin: 2016
+- Auflage: 14.
 - Sprache: Deutsch
 - Seitenzahl der Print-Ausgabe: 304 Seiten
 - ISBN-10: 3990250272
