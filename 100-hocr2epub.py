@@ -74,26 +74,42 @@ args += [
     "--text-format", "html",
     # TODO? move these config items to 000-config.py
     "--doc-modified", doc_modified,
-]
+    "--doc-title", "Das Lebensspiel und seine Regeln",
+    "--doc-subtitle", """
+Sammelband:
+Das geheime Tor zu Fortschritt und Erfolg.
+Die Kraft des gesprochenen Wortes.
+Dein Wort ist dein Zauberstab
+    """,
+    # "--doc-original-title", "The Game of Life and How to Play It", # TODO
+    "--doc-description", """
+Unser Leben funktioniert nach bestimmten Regeln.
+Wenn wir sie beachten, dann geht es uns gut
+und wir können das Spiel des Lebens erfolgreich spielen.
 
+Florence Shinn war eine der berühmtesten Weisheitslehrerinnen des vergangenen Jahrhunderts.
+Für jeden von uns, so betont sie, steht die vollkommene Fülle bereit.
+Wir müssen sie nur sehen.
+Denn geleitet durch Gottes Vorsehung kann jeder von uns eine positive Lebenseinstellung entwickeln -
+und glücklich sein!
+""",
+    # "--doc-subject", "",
+    "--doc-date", "2016",
 
-todo_args = [
-    "--doc-title", "",
-    "--doc-subtitle", "",
-    "--doc-description", "",
-    "--doc-subject", "",
-    "--doc-date", "2025",
-    "--doc-edition", "1",
-    "--doc-extent", "123 pages",
-    "--doc-author", "",
-    "--doc-introducer", "",
-    "--doc-contributor", "",
-    "--doc-translator", "",
-    "--doc-publisher", "",
+    # "--doc-edition", "13", # 2011
+    "--doc-edition", "14", # 2016?
+    # "--doc-edition", "15", # 2024
+
+    "--doc-extent", "306 pages",
+    "--doc-author", "Florence Scovel Shinn",
+    # "--doc-introducer", "",
+    # "--doc-contributor", "",
+    # "--doc-translator", "TODO",
+    "--doc-publisher", "Freya Verlag",
     "--doc-language", "de",
-    "--doc-isbn", "0000000000000",
-    "--doc-cover-image", "070-deskew/999.tiff",
-    "--canonical-url-base", "https://milahu.github.io/todo/",
+    "--doc-isbn", "9783990250273",
+    "--doc-cover-image", "070-deskew/307.tiff",
+    "--canonical-url-base", "https://milahu.github.io/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016/",
 ]
 
 

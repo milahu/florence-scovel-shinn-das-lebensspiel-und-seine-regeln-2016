@@ -1,12 +1,46 @@
-# TODO_BOOK_AUTHOR_NAME_YEAR
+# Florence Scovel Shinn - Das Lebensspiel und seine Regeln - Sammelband (2016)
 
-![TODO_BOOK_AUTHOR_NAME_YEAR](cover.avif)
+![Florence Scovel Shinn - Das Lebensspiel und seine Regeln - Sammelband (2016)](cover.avif)
 
-TODO_BOOK_STORE_URL
+https://www.amazon.de/dp/3990250272
+
+https://shop.freya.at/lebenshilfe/heilmethoden/291/das-lebensspiel-und-seine-regeln
 
 <blockquote>
 
-TODO_BOOK_STORE_DESCRIPTION
+Das Lebensspiel und seine Regeln:
+Das geheime Tor zu Fortschritt und Erfolg.
+Die Kraft des gesprochenen Wortes.
+Dein Wort ist dein Zauberstab
+
+Florence Scovel Shinn (Autor)
+
+4.7 out of 5 stars, (342) ratings
+
+Unser Leben funktioniert nach bestimmten Regeln.
+Wenn wir sie beachten, dann geht es uns gut
+und wir können das Spiel des Lebens erfolgreich spielen.
+
+Florence Shinn war eine der berühmtesten Weisheitslehrerinnen des vergangenen Jahrhunderts.
+Für jeden von uns, so betont sie, steht die vollkommene Fülle bereit.
+Wir müssen sie nur sehen.
+Denn geleitet durch Gottes Vorsehung kann jeder von uns eine positive Lebenseinstellung entwickeln -
+und glücklich sein!
+
+- Herausgeber: Freya Verlag
+- Erscheinungstermin: 2016 (reprint der 13. auflage von 18. Februar 2011?)
+- Auflage: 14. (oder 13. auflage?)
+- Sprache: Deutsch
+- Seitenzahl der Print-Ausgabe: 304 Seiten
+- ISBN-10: 3990250272
+- ISBN-13: 9783990250273
+- Originaltitel: The Game of Life and How to Play It
+- Abmessungen: 11.99 x 1.93 x 19 cm
+- Amazon Bestseller-Rang:
+  - Nr. 191.685 in Bücher
+  - Nr. 410 in Aura & Chakra
+  - Nr. 462 in Götter, Mythen & Naturreligionen
+  - Nr. 1.174 in Übersinnliche Phänomene
 
 </blockquote>
 
@@ -20,11 +54,11 @@ TODO_BOOK_TORRENT_MAGNET_LINK
 
 ## mirrors
 
-- https://github.com/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/TODO_REPO_OWNER_USERNAME/TODO_REPO_NAME
+- https://github.com/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
 
 
 
