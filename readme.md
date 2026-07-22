@@ -54,11 +54,11 @@ magnet:?xt=urn:btih:71a3ea2aa97d6a7460fdf6171739f1a6468fb082&dn=shinn.florence.s
 
 ## mirrors
 
-- https://github.com/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
-- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
-- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
-- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
-- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/shinn-florence-scovel-das-lebensspiel-und-seine-regeln-2016
+- https://github.com/milahu/florence-scovel-shinn-das-lebensspiel-und-seine-regeln-2016
+- http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/florence-scovel-shinn-das-lebensspiel-und-seine-regeln-2016
+- http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/florence-scovel-shinn-das-lebensspiel-und-seine-regeln-2016
+- http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/florence-scovel-shinn-das-lebensspiel-und-seine-regeln-2016
+- http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/milahu/florence-scovel-shinn-das-lebensspiel-und-seine-regeln-2016
 
 
 
